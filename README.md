@@ -16,6 +16,7 @@ A collection of tools and databases for atomistic machine learning
 | [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack) | Feature learning                                                            | [Schütt et al., *J. Chem. Theory Comput.* **15** (2019) 448](https://doi.org/10.1021/acs.jctc.8b00908)       |
 | [N2P2](https://compphysvienna.github.io/n2p2)                          | Behler-Parinello neural network potential                                   | [Singraber et al., *J. Chem. Theory Comput.* **15** (2019) 1827](https://doi.org/10.1021/acs.jctc.8b00770)   |
 
+### Other ML based potential implementations
 
 | Name                                          | Description            | Reference                                                                                                                                                                                   |
 | --------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
