@@ -45,7 +45,7 @@ A collection of tools and databases for atomistic machine learning
 
 | Name | Description                                         | Reference |
 | ---------------------------------------------------------- | --------------------------------------------------- | --------- |
-| [DeepChem](https://deepchem.io)                             | Democratizing Deep-Learning for Drug Discovery       | [Ramsundar,  et al., *O'Reilly Media* (2019) ] (https://www.oreilly.com/library/view/deep-learning-for/9781492039822)                             |
+| [DeepChem](https://deepchem.io)                             | Democratizing Deep-Learning for Drug Discovery       | [Ramsundar,  et al., *O'Reilly Media* (2019)](https://www.oreilly.com/library/view/deep-learning-for/9781492039822)                             |
 
 ## Databases
 
@@ -53,25 +53,23 @@ A collection of tools and databases for atomistic machine learning
 
 | Name                                                       | Description                                         | Reference                                                                                                                                         |
 | ---------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Materials Cloud] (http://www.materialscloud.org)          |   |   |
-| [NOMAD Repository] (https://nomad-repository.eu)           |   |   |
+| [Materials Cloud](http://www.materialscloud.org)          |   |   |
+| [NOMAD Repository](https://nomad-repository.eu)           |   |   |
 
 ### Databases for inorganic materials
 
 | Name                                                       | Description                                         | Reference                                                                                                                                         |
 | ---------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [COMBO](https://github.com/tsudalab/combo)                 | Bayesian Optimization Library                       | [Ueno et. al., *Materials Discovery* **4** (2016) 18] (https://doi.org/10.1016/j.md.2016.04.001)                                                   |
-| [Materials Project] (https://materialsproject.org)         |                                                     |       |
-| [AFLOW] (http://www.aflowlib.org)                          |   |   |
-| [OQMD] (http://oqmd.org)                                   |   |   |
-| [JARVIS-API] (https://jarvis.nist.gov)                     |   |   |
-| [NREL MatDB] (https://materials.nrel.gov)                  |   |   |
-| [Materials Cloud] (http://www.materialscloud.org)          |   |   |
-| [NOMAD Repository] (https://nomad-repository.eu)           |   |   |
+| [COMBO](https://github.com/tsudalab/combo)                 | Bayesian Optimization Library                       | [Ueno et. al., *Materials Discovery* **4** (2016) 18](https://doi.org/10.1016/j.md.2016.04.001)                                                   |
+| [Materials Project](https://materialsproject.org)         |                                                     |       |
+| [AFLOW](http://www.aflowlib.org)                          |   |   |
+| [OQMD](http://oqmd.org)                                   |   |   |
+| [JARVIS-API](https://jarvis.nist.gov)                     |   |   |
+| [NREL MatDB](https://materials.nrel.gov)                  |   |   |
 
 ### Databases for organic molecules and materials
 
 | Name                                                       | Description                                         | Reference                                                                                                                                         |
 | ---------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [MoleculeNet](http://moleculenet.ai)                       | Large scale benchmark for molecular machine learning | [Wu,  et al., *Chem. Sci.*  **9**  (2018) 513] (https://doi.org/10.1039/C7SC02664A)                                                                |
-| [FMODB](https://drugdesign.riken.jp/FMODB/)                | Quantum mechanical FMO calculations                  | [Kato, et al., *J. Chem. Inf. Model.* (2020)] (https://doi/10.1021/acs.jcim.0c00273)                                                               |
+| [MoleculeNet](http://moleculenet.ai)                       | Large scale benchmark for molecular machine learning | [Wu,  et al., *Chem. Sci.*  **9**  (2018) 513](https://doi.org/10.1039/C7SC02664A)                                                                |
+| [FMODB](https://drugdesign.riken.jp/FMODB/)                | Quantum mechanical FMO calculations                  | [Kato, et al., *J. Chem. Inf. Model.* (2020)](https://doi/10.1021/acs.jcim.0c00273)                                                               |
