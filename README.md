@@ -47,6 +47,13 @@ A collection of tools and databases for atomistic machine learning
 
 ## Databases
 
+### General databases
+
+| Name                                                       | Description                                         | Reference                                                                                                                                         |
+| ---------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Materials Cloud] (http://www.materialscloud.org)          |   |   |
+| [NOMAD Repository] (https://nomad-repository.eu)           |   |   |
+
 ### Databases for inorganic materials
 
 | Name                                                       | Description                                         | Reference                                                                                                                                         |
