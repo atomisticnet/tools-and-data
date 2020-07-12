@@ -58,7 +58,7 @@ A collection of tools and databases for atomistic machine learning
 | ---------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [COMBO](https://github.com/tsudalab/combo)                 | Bayesian Optimization Library                       | [Ueno et. al., *Materials Discovery* **4** (2016) 18](https://doi.org/10.1016/j.md.2016.04.001)                                                   |
 | [Materials Project](https://materialsproject.org)         |  A materials genome approach to accelerating materials innovation | [Jain et. al., *APL Materials* **1** (2013) 011002](https://doi.org/10.1063/1.4812323)
-| [AFLOW](http://www.aflowlib.org)                          |   |   |
+| [AFLOW](http://www.aflowlib.org)                          | Ab initio computational materials science database  | [Curtarolo et. al., *Cumput. Mater. Sci.* **58** (2012) 218](https://doi.org/10.1016/j.commatsci.2012.02.005) |
 | [OQMD](http://oqmd.org)                                   |   |   |
 | [JARVIS-API](https://jarvis.nist.gov)                     |   |   |
 | [NREL MatDB](https://materials.nrel.gov)                  |   |   |
