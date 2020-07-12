@@ -25,7 +25,7 @@ A collection of tools and databases for atomistic machine learning
 | [GAP/SOAP](http://libatoms.org/Home/Software) | GPR based ML potential | [Bartók et al., *Phys. Rev. Lett.* **104** (2010) 136403](https://doi.org/10.1103/PhysRevLett.104.136403) [*Phys. Rev. B* **87** (2013) 184115](https://doi.org/10.1103/PhysRevB.87.184115) |
 | [SNAP](https://github.com/FitSNAP) | Linear ML potential based on bispectrum components of the local neighbor density | [Thompson et al., *J. Comput. Phys.* **285** (2015) 316](https://doi.org/10.1016/j.jcp.2014.12.018) |
 
-## ML packages for materials science applications
+## ML tools and packages for materials science and drug discovery applications
 
 | Name                                                       | Description                                         | Reference                                                                                                                                         |
 | ---------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -39,12 +39,7 @@ A collection of tools and databases for atomistic machine learning
 | [JARVIS-ML](https://ctcms.nist.gov/jarvisml)               | Properties predictions                              | [Choudhary et. al., *Phys. Rev. Materials* **2** (2018) 083801](https://doi.org/10.1103/PhysRevMaterials.2.083801)                                |
 | [OMDB-ML](https://omdb.mathub.io/ml)                       | Properties predictions                              | [Olsthoorn et. al., *Adv. Quantum Technol.* **2** (2019) 1900023](https://doi.org/10.1002/qute.201900023)                                          |
 | [PANNA](https://gitlab.com/PANNAdevs/panna)                | Properties from neural network architectures        | [Lot et al., *Comput. Phys. Commun.* **256**, (2020) 107402](https://doi.org/10.1016/j.cpc.2020.107402)                                            |
-| [MaterialNet](https://github.com/ToyotaResearchInstitute/materialnet) | A web-based graph explorer for materials science data    | [Choudhury et al., *JOSS* **5**, (2020) 2105](https://doi.org/10.21105/joss.02105)                                                 |
-
-## ML packages for drug discovery applications
-
-| Name | Description                                         | Reference |
-| ---------------------------------------------------------- | --------------------------------------------------- | --------- |
+| [MaterialNet](https://github.com/ToyotaResearchInstitute/materialnet) | A web-based graph explorer for materials science data    | [Choudhury et al., *JOSS* **5**, (2020) 2105](https://doi.org/10.21105/joss.02105)
 | [DeepChem](https://deepchem.io)                             | Democratizing Deep-Learning for Drug Discovery       | [Ramsundar et al., *O'Reilly Media* (2019)](https://www.oreilly.com/library/view/deep-learning-for/9781492039822)                             |
 
 ## Databases
