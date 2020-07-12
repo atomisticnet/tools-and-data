@@ -41,6 +41,7 @@ A collection of tools and databases for atomistic machine learning
 | [PANNA](https://gitlab.com/PANNAdevs/panna)                | Properties from neural network architectures        | [Lot et al., *Comput. Phys. Commun.* **256**, (2020) 107402](https://doi.org/10.1016/j.cpc.2020.107402)                                            |
 | [MaterialNet](https://github.com/ToyotaResearchInstitute/materialnet) | A web-based graph explorer for materials science data    | [Choudhury et al., *JOSS* **5**, (2020) 2105](https://doi.org/10.21105/joss.02105)
 | [DeepChem](https://deepchem.io)                             | Democratizing Deep-Learning for Drug Discovery       | [Ramsundar et al., *O'Reilly Media* (2019)](https://www.oreilly.com/library/view/deep-learning-for/9781492039822)                             |
+| [ShiftML](http://shiftml.org)                             | ML framework for predicting chemical shifts in molecular solids       | [Paruzzo et al., *Nat. Commun.* **9** (2019) 4501](https://doi.org/10.1038/s41467-018-06972-x)                             |
 
 ## Databases
 
