@@ -14,6 +14,7 @@ A collection of tools and databases for atomistic machine learning
 | [TensorMol](https://github.com/jparkhill/TensorMol)                    | Electrostatics and van der Waals interactions                               | [Yao et al., *Chem. Sci.* **9** (2018) 2261](https://doi.org/10.1039/C7SC04934J)                             |
 | [DeePMD-kit](https://github.com/deepmodeling/deepmd-kit)               | GPU support and feature learning                                            | [Wang et al., *Comput. Phys. Commun.* **228** (2018) 178](https://doi.org/10.1016/j.cpc.2018.03.016)         |
 | [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack) | Feature learning                                                            | [Schütt et al., *J. Chem. Theory Comput.* **15** (2019) 448](https://doi.org/10.1021/acs.jctc.8b00908)       |
+| [SchNarc](https://github.com/schnarc/SchNarc) | Extension to multiple electronic states based on [SchNet](https://github.com/atomistic-machine-learning/schnetpack) and [SHARC](https://sharc-md.org/)                                                            | [Westermayr et al., *J. Phys. Chem. Lett.* **11** (2020) 3828](https://doi.org/10.1021/acs.jpclett.0c00527)       |
 | [N2P2](https://compphysvienna.github.io/n2p2)                          | Behler-Parinello neural network potential                                   | [Singraber et al., *J. Chem. Theory Comput.* **15** (2019) 1827](https://doi.org/10.1021/acs.jctc.8b00770)   |
 
 ### Other ML based potential implementations
