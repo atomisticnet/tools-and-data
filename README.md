@@ -49,7 +49,7 @@ A collection of tools and databases for atomistic machine learning
 
 | Name                                                       | Description                                         | Reference                                                                                                                                         |
 | ---------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Materials Cloud](http://www.materialscloud.org)          | Platform for Open Computational Science  | [Talirz et al.](https://arxiv.org/abs/2003.12510)  |
+| [Materials Cloud](http://www.materialscloud.org)          | Platform for Open Computational Science  | [Talirz et al., arXiv:2003.12510 (2020)](https://arxiv.org/abs/2003.12510)  |
 | [NOMAD Repository](https://nomad-repository.eu)           | Open-Access Platform for Data Sharing  | [Draxl, Scheffler, *J. Phys. Mater.* **2** (2019) 036001](https://doi.org/10.1088/2515-7639/ab13bb)  |
 
 ### Databases for inorganic materials
