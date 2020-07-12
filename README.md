@@ -45,7 +45,7 @@ A collection of tools and databases for atomistic machine learning
 
 | Name | Description                                         | Reference |
 | ---------------------------------------------------------- | --------------------------------------------------- | --------- |
-| [DeepChem](https://deepchem.io)                             | Democratizing Deep-Learning for Drug Discovery       | [Ramsundar,  et al., *O'Reilly Media* (2019)](https://www.oreilly.com/library/view/deep-learning-for/9781492039822)                             |
+| [DeepChem](https://deepchem.io)                             | Democratizing Deep-Learning for Drug Discovery       | [Ramsundar et al., *O'Reilly Media* (2019)](https://www.oreilly.com/library/view/deep-learning-for/9781492039822)                             |
 
 ## Databases
 
@@ -53,7 +53,7 @@ A collection of tools and databases for atomistic machine learning
 
 | Name                                                       | Description                                         | Reference                                                                                                                                         |
 | ---------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Materials Cloud](http://www.materialscloud.org)          |   |   |
+| [Materials Cloud](http://www.materialscloud.org)          | Platform for Open Computational Science  | [Talirz et al.](https://arxiv.org/abs/2003.12510)  |
 | [NOMAD Repository](https://nomad-repository.eu)           |   |   |
 
 ### Databases for inorganic materials
