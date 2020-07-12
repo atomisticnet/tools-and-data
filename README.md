@@ -60,7 +60,7 @@ A collection of tools and databases for atomistic machine learning
 | [Materials Project](https://materialsproject.org)         |  A materials genome approach to accelerating materials innovation | [Jain et. al., *APL Materials* **1** (2013) 011002](https://doi.org/10.1063/1.4812323)
 | [AFLOW](http://www.aflowlib.org)                          | Ab initio computational materials science database  | [Curtarolo et. al., *Cumput. Mater. Sci.* **58** (2012) 218](https://doi.org/10.1016/j.commatsci.2012.02.005) |
 | [OQMD](http://oqmd.org)                                   | Database of DFT calculated thermodynamic and structural materials properties | [Kirklin et. al., *Npj Comput. Mater.* **1** (2015) 15010](http://dx.doi.org/10.1038/npjcompumats.2015.10) |
-| [JARVIS-API](https://jarvis.nist.gov)                     |   |   |
+| [JARVIS-API](https://jarvis.nist.gov)                     | Integrated Infrastructure for Data-driven Materials Design | [Choudhary et. al., arXiv:2007.01831 (2020)](https://arxiv.org/abs/2007.01831) |
 | [NREL MatDB](https://materials.nrel.gov)                  |   |   |
 
 ### Databases for organic molecules and materials
@@ -68,5 +68,5 @@ A collection of tools and databases for atomistic machine learning
 | Name                                                       | Description                                         | Reference                                                                                                                                         |
 | ---------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [MoleculeNet](http://moleculenet.ai)                       | Large scale benchmark for molecular machine learning | [Wu et al., *Chem. Sci.*  **9**  (2018) 513](https://doi.org/10.1039/C7SC02664A)                                                                |
-| [FMODB](https://drugdesign.riken.jp/FMODB/)                | Database of quantum mechanical FMO calculations                  | [Kato et al., *J. Chem. Inf. Model.* 10.1021/acs.jcim.0c00273](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00273)                                                               |
+| [FMODB](https://drugdesign.riken.jp/FMODB/)                | Database of quantum mechanical FMO calculations                  | [Kato et al., *J. Chem. Inf. Model.* 10.1021/acs.jcim.0c00273 (2020)](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00273)                                                               |
 | [QM-sym](https://github.com/XI-Lab/QM-sym-database)                | Symmetrized quantum chemistry database of 135k organic molecules  | [Liang et al., *Sci. Data* **6** (2020) 213](https://doi.org/10.1038/s41597-019-0237-9)                                                               |
