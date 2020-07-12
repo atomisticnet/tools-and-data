@@ -21,6 +21,7 @@ A collection of tools and databases for atomistic machine learning
 | Name                                          | Description            | Reference                                                                                                                                                                                   |
 | --------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [GAP/SOAP](http://libatoms.org/Home/Software) | GPR based ML potential | [Bartók et al., *Phys. Rev. Lett.* **104** (2010) 136403](https://doi.org/10.1103/PhysRevLett.104.136403) [*Phys. Rev. B* **87** (2013) 184115](https://doi.org/10.1103/PhysRevB.87.184115) |
+| [SNAP](https://github.com/FitSNAP) | Linear ML potential based on bispectrum components of the local neighbor density | [Thompson et al., *J. Comput. Phys.* **285** (2015) 316](https://doi.org/10.1016/j.jcp.2014.12.018) |
 
 ## ML packages for materials science applications
 
