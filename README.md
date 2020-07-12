@@ -61,7 +61,7 @@ A collection of tools and databases for atomistic machine learning
 | [AFLOW](http://www.aflowlib.org)                          | Ab initio computational materials science database  | [Curtarolo et. al., *Cumput. Mater. Sci.* **58** (2012) 218](https://doi.org/10.1016/j.commatsci.2012.02.005) |
 | [OQMD](http://oqmd.org)                                   | Database of DFT calculated thermodynamic and structural materials properties | [Kirklin et. al., *Npj Comput. Mater.* **1** (2015) 15010](http://dx.doi.org/10.1038/npjcompumats.2015.10) |
 | [JARVIS-API](https://jarvis.nist.gov)                     | Integrated Infrastructure for Data-driven Materials Design | [Choudhary et. al., arXiv:2007.01831 (2020)](https://arxiv.org/abs/2007.01831) |
-| [NREL MatDB](https://materials.nrel.gov)                  |   |   |
+| [NREL MatDB](https://materials.nrel.gov)                  | Computational materials database with focus on renewable energy applications | [Stevanovic et al. (2012)](http://dx.doi.org/10.1103/PhysRevB.85.115104), [Lany (2013)](http://dx.doi.org/10.1103/PhysRevB.87.085112), [Lany (2015)](http://dx.doi.org/10.1088/0953-8984/27/28/283203)  |
 
 ### Databases for organic molecules and materials
 
