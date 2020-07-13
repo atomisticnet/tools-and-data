@@ -2,6 +2,12 @@
 
 A collection of tools and databases for atomistic machine learning
 
+**Supporting Materials:**<br/>
+"Machine Learning-Accelerated Quantum Mechanics-Based Atomistic Simulations for Industrial Applications",<br/>
+Tobias Morawietz[1] and Nongnuch Artrith[2], *submitted* (2020)<br/>
+[1] Bayer AG, Pharmaceuticals, R&D, 42096 Wuppertal, Germany, E-mail: tobias.morawietz@bayer.com<br/>
+[2] Department of Chemical Engineering, Columbia University, New York, NY 10027, United States, E-mail: nartrith@atomistic.net
+
 ## ML atomistic potentials
 
 ### ANN based potential implementations
