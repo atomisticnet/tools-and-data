@@ -1,6 +1,6 @@
 # List of public tools and data for atomistic machine learning
 
-A collection of tools and databases for atomistic machine learning
+A collection of public open-source tools and databases for atomistic machine learning
 
 **Supporting Materials:**<br/>
 "Machine Learning-Accelerated Quantum Mechanics-Based Atomistic Simulations for Industrial Applications",<br/>
@@ -14,7 +14,7 @@ Tobias Morawietz[1] and Nongnuch Artrith[2], *submitted* (2020)<br/>
 
 | Name                                                                   | Features                                                                    | Reference                                                                                                    |
 | ---------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| [ænet](http://ann.atomistic.net)                                       | Accurate and efficient potential: Capable of handling many chemical species | [Artrith, Urban, *Comput. Mater. Sci.* **114** (2016) 135](https://doi.org/10.1016/j.commatsci.2015.11.047)  |
+| [ænet](http://ann.atomistic.net)                                       | Capable of handling many chemical species | [Artrith, Urban, *Comput. Mater. Sci.* **114** (2016) 135](https://doi.org/10.1016/j.commatsci.2015.11.047)  |
 | [Amp](https://bitbucket.org/andrewpeterson/amp)                        | Large descriptor library                                                    | [Khorshidi, Peterson, *Comput. Phys. Commun.* **207** (2016) 310](https://doi.org/10.1016/j.cpc.2016.05.010) |
 | [ANI](https://github.com/isayev/ASE_ANI)                               | Accurate potential for molecular systems                                    | [Smith, Isayev, Roitberg, *Chem. Sci.* **8** (2017) 3192](https://doi.org/10.1039/C6SC05720A)                |
 | [TorchANI](https://github.com/aiqm/torchani)                               | Pytorch implementation of ANI                                    | [Gao et al., *J. Chem. Inf. Model.*, 10.1021/acs.jcim.0c00451 (2020)](https://doi.org/10.1021/acs.jcim.0c00451)                |
