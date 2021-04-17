@@ -65,6 +65,7 @@ A collection of public open-source tools and databases for atomistic machine lea
 | [OQMD](http://oqmd.org)                                   | Database of DFT calculated thermodynamic and structural materials properties | [Kirklin et al., *Npj Comput. Mater.* **1** (2015) 15010](http://dx.doi.org/10.1038/npjcompumats.2015.10) |
 | [JARVIS-API](https://jarvis.nist.gov)                     | Integrated Infrastructure for Data-driven Materials Design | [Choudhary et al., arXiv:2007.01831 (2020)](https://arxiv.org/abs/2007.01831) |
 | [NREL MatDB](https://materials.nrel.gov)                  | Computational materials database with focus on renewable energy applications | [Stevanovic et al. (2012)](http://dx.doi.org/10.1103/PhysRevB.85.115104), [Lany (2013)](http://dx.doi.org/10.1103/PhysRevB.87.085112), [Lany (2015)](http://dx.doi.org/10.1088/0953-8984/27/28/283203)  |
+| [American Mineralogist Crystal Structure Database](http://rruff.geo.arizona.edu/AMS/amcsd.php) |Crystal structure database for mineralogist | [Downs and Hall-Wallace, *American Mineralogist* **88** (2003)](https://www.geo.arizona.edu/xtal/group/pdf/am88_247.pdf) |
 
 ### Databases for organic molecules and materials
 
