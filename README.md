@@ -66,7 +66,7 @@ A collection of public open-source tools and databases for atomistic machine lea
 | [JARVIS-API](https://jarvis.nist.gov)                     | Integrated Infrastructure for Data-driven Materials Design | [Choudhary et al., arXiv:2007.01831 (2020)](https://arxiv.org/abs/2007.01831) |
 | [NREL MatDB](https://materials.nrel.gov)                  | Computational materials database with focus on renewable energy applications | [Stevanovic et al. (2012)](http://dx.doi.org/10.1103/PhysRevB.85.115104), [Lany (2013)](http://dx.doi.org/10.1103/PhysRevB.87.085112), [Lany (2015)](http://dx.doi.org/10.1088/0953-8984/27/28/283203)  |
 | [American Mineralogist Crystal Structure Database](http://rruff.geo.arizona.edu/AMS/amcsd.php) |Crystal structure database for mineralogist | [Downs and Hall-Wallace, *American Mineralogist* **88** (2003) 247](https://www.geo.arizona.edu/xtal/group/pdf/am88_247.pdf) |
-| [COD](http://www.crystallography.net/cod/search.html) | Crystallography Open Database | [Grazulis et al. (2009)](http://scripts.iucr.org/cgi-bin/paper?S0021889809016690) |
+| [COD](http://www.crystallography.net/cod/search.html) | Crystallography Open Database | [Grazulis et al. (2009)](http://scripts.iucr.org/cgi-bin/paper?S0021889809016690),  [Gražulis (2012)](https://doi.org/10.1093/nar/gkr900), [Gražulis (2015)](http://scripts.iucr.org/cgi-bin/paper?S1600576714025904), [Merkys (2016)](http://scripts.iucr.org/cgi-bin/paper?S1600576715022396), [Quirós (2018)](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0279-6), [Vaitkus (2021)](https://scripts.iucr.org/cgi-bin/paper?S1600576720016532)|
 
 ### Databases for organic molecules and materials
 
