@@ -1,8 +1,19 @@
-# List of public tools and data for atomistic machine learning
+# List of Public Tools and Data for Atomistic Machine Learning
 
-A collection of public open-source tools and databases for atomistic machine learning
+**A Collection of Public Open-Source Tools and Databases for Atomistic Machine Learning**
 
-**Supporting Materials:**<br/>
+Copyright (c) 2021 N. Artrith*, T. Morawietz, H. Guo, and A. Urban <br/>
+Contact: Nong Artrith, Email: <nartrith@atomistic.net> <br/>
+Distributed under the terms of the Mozilla Public License, version 2.0 (https://www.mozilla.org/en-US/MPL/2.0/)
+
+**Supporting Materials:** This notebook is a companion to:  <br/>
+[3] H. Guo,  Q. Wang,  A Stuke,  A. Urban, and  N. Artrith, 
+*Front. Energy Res.* just accepted, **(2021)**.  <br/>
+[2] A.M. Miksch, T. Morawietz, J. Kästner, A. Urban, and N. Artrith,
+*Machine Learning: Science and Technology*, in press, **(2021)** DOI: https://doi.org/10.1088/2632-2153/abfd96 . <br/>
+[1]  T. Morawietz and N. Artrith, 
+*J. Comput. Aided Mol. Des.* **35**, 557-586 (2021) Open Access DOI: https://doi.org/10.1007/s10822-020-00346-6 .
+
 
 ## ML atomistic potentials
 
