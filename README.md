@@ -6,6 +6,7 @@ Copyright (c) 2021 N. Artrith (nartrith@atomistic.net), T. Morawietz, H. Guo, an
 
 ## Table of Contents
 
+* [Contributing](#contributing)
 * [ML atomistic potentials](#ml-atomistic-potentials)
   * [ANN based potential implementations](#ann-based-potential-implementations)
   * [Other ML based potential implementations](#other-ml-based-potential-implementations)
@@ -14,7 +15,12 @@ Copyright (c) 2021 N. Artrith (nartrith@atomistic.net), T. Morawietz, H. Guo, an
   * [General databases](#general-databases)
   * [Databases for inorganic materials](#databases-for-inorganic-materials)
   * [Databases for organic molecules and materials](#databases-for-organic-molecules-and-materials)
+* [Workflow management](#workflow-management)
 * [Peer-reviewed articles referring to this document](#peer-reviewed-articles-referring-to-this-document)
+
+## Contributing
+
+We welcome everybody to contribute to this list.  Your name will be added to the copyright statement at the top of this document.
 
 ## ML atomistic potentials
 
@@ -89,6 +95,15 @@ Entries sorted by the year of the publication.
 | [MoleculeNet](http://moleculenet.ai)                       | Large scale benchmark for molecular machine learning | [Wu et al., *Chem. Sci.*  **9**  (2018) 513](https://doi.org/10.1039/C7SC02664A)                                                                |
 | [FMODB](https://drugdesign.riken.jp/FMODB/)                | Database of quantum mechanical FMO calculations                  | [Kato et al., *J. Chem. Inf. Model.* 10.1021/acs.jcim.0c00273 (2020)](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00273)                                                               |
 | [QM-sym](https://github.com/XI-Lab/QM-sym-database)                | Symmetrized quantum chemistry database of 135k organic molecules  | [Liang et al., *Sci. Data* **6** (2020) 213](https://doi.org/10.1038/s41597-019-0237-9)                                                               |
+
+## Workflow management
+
+| Name                                                       | Description                                         | Reference                                                                                                                                         |
+| ---------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Research Object Crate](https://www.researchobject.org/) | A JSON-based approach for research object serialization | [Bechhofer et al., *Future Generation Computer Systems* **29** (2013) 599-611](https://doi.org/10.1016/j.future.2011.08.004) |
+| [Common Workflow Language](https://www.commonwl.org/) | An open standard for analysis workflows and tools | [Amstutz et al., *Common Workflow Language, v1.0* (2016)](https://doi.org/10.6084/m9.figshare.3115156.v2) |
+| [DLHub](https://www.dlhub.org/) | Sharing of ML models and workflows | [Chard et al., *IEEE IPDPS* (2019) 283-292](https://arxiv.org/pdf/1811.11213), [Blaiszik et al., *MRS Commun.* **9** (2019) 1125–1133](https://doi.org/10.1557/mrc.2019.118) |
+
 
 ## Peer-reviewed articles referring to this document
 
