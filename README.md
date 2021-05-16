@@ -1,4 +1,4 @@
-Copyright (c) 2021 N. Artrith (nartrith@atomistic.net), T. Morawietz, H. Guo, and A. Urban 
+Contributors: 2021 N. Artrith (nartrith@atomistic.net), T. Morawietz, H. Guo, and A. Urban 
 
 # List of Public Tools and Data for Atomistic Machine Learning
 
@@ -20,7 +20,7 @@ Copyright (c) 2021 N. Artrith (nartrith@atomistic.net), T. Morawietz, H. Guo, an
 
 ## Contributing
 
-We welcome everybody to contribute to this list.  Your name will be added to the copyright statement at the top of this document.
+We welcome everybody to contribute to this list.  Your name will be added to the list of contributors at the top of this document.
 
 ## ML atomistic potentials
 
